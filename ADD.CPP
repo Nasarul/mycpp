@@ -12,4 +12,4 @@ sum = num1 + num2;
 printf("Total:, %d", sum);
 //getch();
 return 0;
-}																																																																																																																																	r
+}
