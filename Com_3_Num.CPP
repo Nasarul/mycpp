@@ -14,12 +14,10 @@ if (num1 > num2 && num1 > num3)
 	}
 
 	else if
-
 		if (num2 > num1 && num2 > num3)
 		{
 		printf("Number 2 is geterthen number 1 & number 3");
 		}
-
 	else
 	{
 		printf("Number 3 is geterthen number 1 & number 2");
